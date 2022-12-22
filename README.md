@@ -3,6 +3,7 @@ Hope this repo will help you to learn GitHub faster! <br>
 
 ### Issues
 ### Code Reviews
+[docs](https://github.com/features/code-review)
 ### Pull Requests
 ### Commits
 
