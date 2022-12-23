@@ -7,7 +7,7 @@ Hope this repo will help you to learn GitHub faster! <br>
 ### Pull Requests
 ### Commits
 ### Profile
-add timezone and contact links, add activity overview graph, readme file, pin repositories.
+add timezone and contact links, add activity overview graph, readme file, pin repositories. Go to settings to publish the email in profile.
 
 [Licensing](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) <br>
 [.gitignore file](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files) <br>
