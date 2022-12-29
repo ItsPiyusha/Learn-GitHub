@@ -11,3 +11,6 @@ add timezone and contact links, add activity overview graph, readme file, pin re
 
 [Licensing](https://docs.github.com/en/repositories/managing-your-repositorys-settings-and-features/customizing-your-repository/licensing-a-repository) <br>
 [.gitignore file](https://docs.github.com/en/get-started/getting-started-with-git/ignoring-files) <br>
+
+
+Note: We can use Actions tab too. Exploring how exactly!
