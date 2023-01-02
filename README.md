@@ -14,3 +14,5 @@ add timezone and contact links, add activity overview graph, readme file, pin re
 
 
 Note: We can use Actions tab too. Exploring how exactly!
+
+Ask any of your doubts [here](https://github.com/EddieHubCommunity/support/discussions)
