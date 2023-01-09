@@ -18,3 +18,8 @@ Note: We can use Actions tab too. Exploring how exactly!
 Ask any of your doubts [here](https://github.com/EddieHubCommunity/support/discussions)
 <br>
 Heard about CNCF today. Not sure what is it.
+<br>
+Don't let your notifications spam you! Use them, they are great.
+<br>
+be nice to git, and git will be nice to you!
+[Eddie fork and git branch](https://www.youtube.com/watch?v=FnxFwyzm4Z4&t=804s)
