@@ -25,5 +25,5 @@ be nice to git, and git will be nice to you!
 [Eddie fork and git branch](https://www.youtube.com/watch?v=FnxFwyzm4Z4&t=804s)
 
 <br>
-[Google Season of Docs](https://youtu.be/XPgZl1-WmuA)
+[Google Season of Docs](https://www.google.com/url?sa=t&source=web&rct=j&url=https://developers.google.com/season-of-docs/docs/participants&ved=2ahUKEwi1qL7voLT8AhWWcGwGHe_DDIcQFnoECB4QAQ&usg=AOvVaw2knmxwP2T5txnUOETgaASM)
 <br>
