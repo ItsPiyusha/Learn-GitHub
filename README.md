@@ -23,3 +23,7 @@ Don't let your notifications spam you! Use them, they are great.
 <br>
 be nice to git, and git will be nice to you!
 [Eddie fork and git branch](https://www.youtube.com/watch?v=FnxFwyzm4Z4&t=804s)
+
+<br>
+[Google Season of Docs](https://youtu.be/XPgZl1-WmuA)
+<br>
